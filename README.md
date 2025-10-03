@@ -13,7 +13,7 @@ L’objectif est de montrer un workflow ETL simple mais fonctionnel pour l’app
 ---
 
 ## 2. Arborescence du projet
-
+```bash
 etl-movies/
 │
 ├─ data/
